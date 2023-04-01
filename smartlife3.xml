@@ -18,5 +18,5 @@
      <item>mets la couleur du </item>
      <item>met la couleur de </item>
      <item>met la couleur du </item>
-
+<item>met en alerte la <tag> data.verifdomo="alerte";data.scene='scene_3'</tag></item>
           <item>recherche les objets connectés<tag> data.verifdomo="find"</tag></item>

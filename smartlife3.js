@@ -52,6 +52,12 @@ if(dat.dps['5']!==undefined){ red='ff01000000ffff'; green='23ff00006fffff'; blue
 //console.log(dat.dps['1'],dat.dps[1])
 //console.log(dataDPSrvb,'rrrrrrrrrrrrrr')
 //dataDPSrvb='5'
+
+var scene=data.scene
+if((data.verifdomo=="alerte")&&(dat.dps['1']!==undefined)){await device.set({multiple: true,data: {'1': true,'2' : scene}}).then(() => console.log("device was flash red")); device.disconnect();return false};
+    
+   if((data.verifdomo=="alerte")&&(dat.dps['1']!==undefined)){await device.set({multiple: true,data: {'1': true,'2' : w}}).then(() => console.log("device was flash green")); device.disconnect();return false};
+   if((data.verifdomo=="alerte")&&(dat.dps['20']!==undefined)){await device.set({multiple: true,data: {'20': true,'21' : w}}).then(() => console.log("device was flash green")); device.disconnect();return false};
     
     if((phrasedomo.search(new RegExp("vert","gi"))>-1)&&(dat.dps['1']!==undefined)){await device.set({multiple: true,data: {'1': true,'2' : 'colour' , '5': green}}).then(() => console.log("device was green")); device.disconnect();return false};
     if((phrasedomo.search(new RegExp("vert","gi"))>-1)&&(dat.dps['1']==undefined)){await device.set({multiple: true,data: {'20': true,'21' : 'colour' , '24': green}}).then(() => console.log("device was green")); device.disconnect();return false};
