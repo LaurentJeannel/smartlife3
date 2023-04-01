@@ -20,4 +20,4 @@ if exist npm.cmd (
 popd
 endlocal
 
-node C:\JarvisIA\plugins\smartlife2\cli wizard
+node C:\JarvisIA\plugins\smartlife3\cli wizard

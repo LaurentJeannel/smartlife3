@@ -1,7 +1,7 @@
-# smartlife2
+# smartlife3
  version off line
 
-le fichier wizard.js est à remplacer dans : C:\JarvisIA\plugins\smartlife2\cli\lib
+le fichier wizard.js est à remplacer dans : C:\JarvisIA\plugins\smartlife3\cli\lib
 
 cliquer sur nodevars-Raccourci et rentrer les valeurs
 
