@@ -1,4 +1,4 @@
-<item>statut de la<tag> data.verifdomo="vérif"</tag></item>
+     <item>statut de la<tag> data.verifdomo="vérif"</tag></item>
      <item>statue de la<tag> data.verifdomo="vérif"</tag></item>
      <item>statut du<tag> data.verifdomo="vérif"</tag></item>
      <item>statue du<tag> data.verifdomo="vérif"</tag></item>
@@ -19,14 +19,14 @@
      <item>met la couleur de </item>
      <item>met la couleur du </item>
 
-<item>mets en mode nuit <tag> data.verifdomo="mode";data.sceneval='bd76000168ffff'</tag></item>
-<item>mets en mode lecture  <tag> data.verifdomo="mode";data.scene='scene';data.sceneval='fffcf70168ffff'</tag></item>
-<item>mets en mode rendez-vous  <tag> data.verifdomo="mode";data.scene='scene';data.sceneval='cf38000168ffff'</tag></item>
-<item>mets en mode loisirs <tag> data.verifdomo="mode";data.scene='scene';data.sceneval='3855b40168ffff'</tag></item>
+<item>met en mode nuit ;mets en mode nuit <tag> data.verifdomo="mode";data.sceneval='bd76000168ffff'</tag></item>
+<item>met en mode lecture ;mets en mode lecture <tag> data.verifdomo="mode";data.scene='scene';data.sceneval='fffcf70168ffff'</tag></item>
+<item>met en mode rendez-vous ;mets en mode rendez-vous <tag> data.verifdomo="mode";data.scene='scene';data.sceneval='cf38000168ffff'</tag></item>
+<item>met en mode loisirs ;mets en mode loisirs <tag> data.verifdomo="mode";data.scene='scene';data.sceneval='3855b40168ffff'</tag></item>
 
-<item>mets en mode scenario 1 <tag> data.verifdomo="mode";data.scene='scene_1';data.sceneval=''</tag></item>
-<item>mets en mode scenario 2 <tag> data.verifdomo="mode";data.scene='scene_2';data.sceneval=''</tag></item>
-<item>mets en mode scenario 3 <tag> data.verifdomo="mode";data.scene='scene_3';data.sceneval=''</tag></item>
-<item>mets en mode scenario 4 <tag> data.verifdomo="mode";data.scene='scene_4';data.sceneval=''</tag></item>
+<item>met en mode scenario 1 ;mets en mode scenario 1 <tag> data.verifdomo="mode";data.scene='scene_1';data.sceneval=''</tag></item>
+<item>met en mode scenario 2 ;mets en mode scenario 2 <tag> data.verifdomo="mode";data.scene='scene_2';data.sceneval=''</tag></item>
+<item>met en mode scenario 3 ;mets en mode scenario 3 <tag> data.verifdomo="mode";data.scene='scene_3';data.sceneval=''</tag></item>
+<item>met en mode scenario 4 ;mets en mode scenario 4 <tag> data.verifdomo="mode";data.scene='scene_4';data.sceneval=''</tag></item>
 
           <item>recherche les objets connectés<tag> data.verifdomo="find"</tag></item>
