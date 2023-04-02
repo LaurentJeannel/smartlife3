@@ -62,7 +62,7 @@ var sceneval=data.sceneval
    
    if((data.verifdomo=="mode")&&(dat.dps['1']!==undefined)){await device.set({multiple: true,data: {'1': true,'2' : scene,'6':sceneval}}).then(() => console.log("device was flash green")); device.disconnect();return false};
    
-   if((data.verifdomo=="mode")&&(dat.dps['20']!==undefined)){await device.set({multiple: true,data: {'20': true,'21' : scene,'24':sceneval}}).then(() => console.log("device was flash green")); device.disconnect();return false};
+   if((data.verifdomo=="mode")&&(dat.dps['20']!==undefined)){await device.set({multiple: true,data: {'20': true,'21' : scene,'25':sceneval}}).then(() => console.log("device was flash green")); device.disconnect();return false};
     
     if((phrasedomo.search(new RegExp("vert","gi"))>-1)&&(dat.dps['1']!==undefined)){await device.set({multiple: true,data: {'1': true,'2' : 'colour' , '5': green}}).then(() => console.log("device was green")); device.disconnect();return false};
     if((phrasedomo.search(new RegExp("vert","gi"))>-1)&&(dat.dps['1']==undefined)){await device.set({multiple: true,data: {'20': true,'21' : 'colour' , '24': green}}).then(() => console.log("device was green")); device.disconnect();return false};
