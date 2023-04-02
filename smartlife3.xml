@@ -19,7 +19,7 @@
      <item>met la couleur de </item>
      <item>met la couleur du </item>
 
-<item>met en mode nuit ;mets en mode nuit <tag> data.verifdomo="mode";data.sceneval='bd76000168ffff'</tag></item>
+<item>met en mode nuit ;mets en mode nuit <tag> data.verifdomo="mode";data.scene='scene';data.sceneval='bd76000168ffff'</tag></item>
 <item>met en mode lecture ;mets en mode lecture <tag> data.verifdomo="mode";data.scene='scene';data.sceneval='fffcf70168ffff'</tag></item>
 <item>met en mode rendez-vous ;mets en mode rendez-vous <tag> data.verifdomo="mode";data.scene='scene';data.sceneval='cf38000168ffff'</tag></item>
 <item>met en mode loisirs ;mets en mode loisirs <tag> data.verifdomo="mode";data.scene='scene';data.sceneval='3855b40168ffff'</tag></item>
